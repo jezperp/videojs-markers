@@ -11,7 +11,7 @@
     global.videojsMarkers = mod.exports;
   }
 })(this, function (_video) {
-  /*! videojs-markers - v1.0.3 - 2020-10-02
+  /*! videojs-markers - v1.0.4 - 2020-10-02
   * Copyright (c) 2020 ; Licensed  */
   'use strict';
 

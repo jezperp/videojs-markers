@@ -79,6 +79,8 @@ The style of the markers could be modified by passing an optional setting "marke
 
 
 ## History
+- 1.0.4
+   - hard-coded text fix
 - 1.0.3
    - another error fix for registerPlugin
 - 1.0.2
