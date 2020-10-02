@@ -1,4 +1,4 @@
-## Not actively maintained anymore. 
+## This is a fork from videojs-markers plugin officially released by spchuang.
 
 Video.js Markers
 ===================
