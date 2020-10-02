@@ -27,7 +27,7 @@ const defaultSetting = {
   markerTip: {
     display: true,
     text: function(marker) {
-      return "Break: " + marker.text;
+      return marker.text;
     },
     time: function(marker) {
       return marker.time;
@@ -37,7 +37,7 @@ const defaultSetting = {
     display: false,
     displayTime: 3,
     text: function(marker) {
-      return "Break overlay: " + marker.overlayText;
+      return marker.overlayText;
     },
     style: {
       'width':'100%',
