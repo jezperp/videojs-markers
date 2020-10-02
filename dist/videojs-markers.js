@@ -39,7 +39,7 @@
     markerTip: {
       display: true,
       text: function text(marker) {
-        return "Break: " + marker.text;
+        return marker.text;
       },
       time: function time(marker) {
         return marker.time;
@@ -49,7 +49,7 @@
       display: false,
       displayTime: 3,
       text: function text(marker) {
-        return "Break overlay: " + marker.overlayText;
+        return marker.overlayText;
       },
       style: {
         'width': '100%',
