@@ -79,6 +79,10 @@ The style of the markers could be modified by passing an optional setting "marke
 
 
 ## History
+- 1.0.3
+   - another error fix for registerPlugin
+- 1.0.2
+   - error fix for registerPlugin
 - 1.0.1
    - fix /dist missing issue (issue 81)
 - 1.0.0

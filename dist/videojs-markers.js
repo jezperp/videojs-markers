@@ -516,6 +516,7 @@
     };
   }
 
-  _video2.default.Plugin('markers', registerVideoJsMarkersPlugin);
+  var registerPlugin = _video2.default.registerPlugin || _video2.default.plugin;
+  registerPlugin('markers', registerVideoJsMarkersPlugin);
 });
 //# sourceMappingURL=videojs-markers.js.map
